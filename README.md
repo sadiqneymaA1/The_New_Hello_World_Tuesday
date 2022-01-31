@@ -6,11 +6,10 @@ This is a basic Hello World Program. I created this to demonstrate the use of vi
 
 {Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/8h9WhMRilck)
 
-# Development Environment
+# Development Environmen
 
 * Visual Studio Code
 * Pyhton 3.9 32-bit
