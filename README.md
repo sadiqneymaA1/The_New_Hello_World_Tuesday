@@ -2,7 +2,7 @@
 
 This is a basic Hello World Program. I created this to demonstrate the use of visual studio code, Github, and Python Integrated together.
 
-{Provide a description of your software}
+{Povide a description of your software}
 
 {Describe your purpose for creating this software.}
 
