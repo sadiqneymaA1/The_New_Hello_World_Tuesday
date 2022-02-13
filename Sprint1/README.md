@@ -1,13 +1,21 @@
 # Overview
 
-This is a basic Hello World Program. I created this to demonstrate the use of visual studio code, Github, and Python Integrated together.
+I created a ping pong game using python language. The left bat is controlled by 
 
-{Povide a description of your software}
+ (paddle_left_up,"w")
 
-{Describe your purpose for creating this software.}
+ (paddle_left_down,"s")
+
+ The left bat is controlled by 
+
+(paddle_right_up,"Up")
+
+(paddle_right_down,"Down")
+
+Players have to try to avoid letting the ball pass their bats else their opponents gain points over them.
 
 
-[Software Demo Video](https://youtu.be/8h9WhMRilck)
+[Software Demo Video](https://youtu.be/KK6CWXzvReA)
 
 # Development Environmen
 
@@ -27,8 +35,3 @@ I also created a Git hub account.
 
 I used Python Programming Language
 
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Visual Studio Code & Github](https://code.visualstudio.com/Download)
-* [Web Site Name](https://www.python.org/downloads/)
